@@ -7,7 +7,7 @@ __pycache__/
 # виртуальное окружение
 venv/
 .venv/
-
+    
 # IDE / редакторы
 .idea/
 .vscode/
